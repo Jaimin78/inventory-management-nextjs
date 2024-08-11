@@ -1,32 +1,5 @@
 [
     {
-        "name": "HP Laptop",
-        "category": "Electronics",
-        "quantity": "5",
-        "price": "45000",
-        "maxStock": "25",
-        "minStock": "10",
-        "id": "a1b2c3d4-e5f6-7890-abcd-1234567890ab"
-    },
-    {
-        "name": "Note book",
-        "category": "Stationery",
-        "quantity": "200",
-        "price": "50",
-        "maxStock": "20",
-        "minStock": "15",
-        "id": "c3d4e5f6-a7b8-90c1-d2ef-34567890cdef"
-    },
-    {
-        "name": "T-Shirt",
-        "category": "Clothing",
-        "quantity": "80",
-        "price": "800",
-        "maxStock": "30",
-        "minStock": "25",
-        "id": "d4e5f6a7-b8c9-01d2-e3f4-45678901def2"
-    },
-    {
         "name": "Smartphone",
         "category": "Electronics",
         "quantity": "25",
@@ -47,10 +20,10 @@
     {
         "name": "Jeans",
         "category": "Clothing",
-        "quantity": "19",
+        "quantity": "10",
         "price": "1200",
-        "maxStock": "90",
-        "minStock": "20",
+        "maxStock": "40",
+        "minStock": "25",
         "id": "b8c90123-4567-89f0-i012-89012345i678"
     },
     {
@@ -58,8 +31,17 @@
         "category": "Electronics",
         "quantity": "40",
         "price": "18000",
-        "maxStock": "60",
+        "maxStock": "30",
         "minStock": "15",
         "id": "c9012345-6789-01f2-j345-90123456j789"
+    },
+    {
+        "name": "Laptop",
+        "category": "Electronics",
+        "quantity": "21",
+        "price": "23555",
+        "maxStock": "10",
+        "minStock": "5",
+        "id": "c7989c06-d7ef-4690-b69e-2dd122a3d2df"
     }
 ]
